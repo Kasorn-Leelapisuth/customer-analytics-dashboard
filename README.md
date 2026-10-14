@@ -38,11 +38,10 @@ SELECT
     SUM(CASE WHEN orders_placed > 1 THEN 1 ELSE 0 END) AS repeat_customers,
     ROUND((CAST(SUM(CASE WHEN orders_placed > 1 THEN 1 ELSE 0 END) AS FLOAT) / COUNT(*)) * 100, 2) AS repeat_rate_pct
 FROM CustomerOrderCounts;
-
----
-### 2. Product Revenue Ranking (Window Function) 
- ```sql
- WITH ProductSales AS (
+```
+### 2. Product Revenue Ranking (Window Function)
+```sql
+WITH ProductSales AS (
     SELECT 
         category,
         product_name,
@@ -59,4 +58,3 @@ SELECT
     units_sold,
     RANK() OVER (ORDER BY product_revenue DESC) AS sales_rank
 FROM ProductSales;
-```

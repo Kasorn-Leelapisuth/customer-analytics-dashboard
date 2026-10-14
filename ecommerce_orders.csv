@@ -1,0 +1,251 @@
+order_id,customer_id,category,product_name,unit_price,quantity,total_spend,status,order_date
+1001,CUST-147,Electronics,Mechanical Keyboard,120.0,1,120.0,Refunded,2026-02-13
+1002,CUST-115,Electronics,Wireless Mouse,45.0,2,90.0,Refunded,2026-06-03
+1003,CUST-133,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-03-13
+1004,CUST-154,Accessories,Screen Cleaning Kit,12.0,1,12.0,Refunded,2026-03-30
+1005,CUST-138,Accessories,Screen Cleaning Kit,12.0,3,36.0,Refunded,2026-01-11
+1006,CUST-115,Electronics,Mechanical Keyboard,120.0,2,240.0,Refunded,2026-04-03
+1007,CUST-107,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-04-20
+1008,CUST-152,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-03-11
+1009,CUST-122,Accessories,Cable Management Kit,15.0,3,45.0,Completed,2026-01-19
+1010,CUST-158,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-03-11
+1011,CUST-139,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-03-01
+1012,CUST-119,Accessories,Screen Cleaning Kit,12.0,1,12.0,Refunded,2026-05-12
+1013,CUST-117,Accessories,Cable Management Kit,15.0,3,45.0,Completed,2026-04-16
+1014,CUST-102,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-05-06
+1015,CUST-107,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-06-05
+1016,CUST-115,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-06-04
+1017,CUST-149,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-03-18
+1018,CUST-139,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-04-26
+1019,CUST-145,Electronics,Mechanical Keyboard,120.0,3,360.0,Refunded,2026-06-23
+1020,CUST-133,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-05-27
+1021,CUST-120,Accessories,Screen Cleaning Kit,12.0,1,12.0,Refunded,2026-04-02
+1022,CUST-156,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-02-15
+1023,CUST-132,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-01-15
+1024,CUST-144,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-06-18
+1025,CUST-119,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-03-12
+1026,CUST-123,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-05-03
+1027,CUST-142,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-05-06
+1028,CUST-136,Accessories,Cable Management Kit,15.0,2,30.0,Refunded,2026-04-30
+1029,CUST-107,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-03-27
+1030,CUST-123,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-04-01
+1031,CUST-147,Electronics,USB-C Hub,35.0,3,105.0,Refunded,2026-04-18
+1032,CUST-152,Electronics,Mechanical Keyboard,120.0,2,240.0,Refunded,2026-04-29
+1033,CUST-114,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-06-03
+1034,CUST-113,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-04-26
+1035,CUST-152,Electronics,Wireless Mouse,45.0,2,90.0,Completed,2026-04-22
+1036,CUST-104,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-01-24
+1037,CUST-144,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-05-27
+1038,CUST-153,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-06-27
+1039,CUST-151,Electronics,Mechanical Keyboard,120.0,3,360.0,Refunded,2026-04-30
+1040,CUST-135,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-05-30
+1041,CUST-135,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-03-09
+1042,CUST-134,Office Supplies,Ergonomic Chair Pad,50.0,1,50.0,Completed,2026-04-04
+1043,CUST-120,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-05-02
+1044,CUST-155,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-01-09
+1045,CUST-124,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-06-05
+1046,CUST-153,Office Supplies,LED Monitor Light,60.0,3,180.0,Refunded,2026-03-12
+1047,CUST-148,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-02-13
+1048,CUST-134,Electronics,Wireless Mouse,45.0,2,90.0,Refunded,2026-03-21
+1049,CUST-116,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-02-28
+1050,CUST-148,Office Supplies,Desk Mat,25.0,2,50.0,Refunded,2026-05-17
+1051,CUST-153,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-03-20
+1052,CUST-155,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-04-13
+1053,CUST-152,Accessories,Screen Cleaning Kit,12.0,2,24.0,Refunded,2026-02-19
+1054,CUST-152,Accessories,Screen Cleaning Kit,12.0,2,24.0,Refunded,2026-04-22
+1055,CUST-160,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-04-06
+1056,CUST-141,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-03-25
+1057,CUST-146,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-03-07
+1058,CUST-137,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-04-08
+1059,CUST-155,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-04-22
+1060,CUST-107,Accessories,Cable Management Kit,15.0,1,15.0,Refunded,2026-01-12
+1061,CUST-132,Accessories,Screen Cleaning Kit,12.0,2,24.0,Completed,2026-02-16
+1062,CUST-113,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-03-01
+1063,CUST-148,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-02-05
+1064,CUST-134,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-02-25
+1065,CUST-106,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-06-24
+1066,CUST-120,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-03-13
+1067,CUST-117,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-02-13
+1068,CUST-104,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-04-27
+1069,CUST-127,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-01-02
+1070,CUST-125,Office Supplies,Desk Mat,25.0,2,50.0,Refunded,2026-01-09
+1071,CUST-135,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-03-11
+1072,CUST-148,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-06-30
+1073,CUST-119,Accessories,Cable Management Kit,15.0,1,15.0,Refunded,2026-04-07
+1074,CUST-115,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-02-22
+1075,CUST-160,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-06-25
+1076,CUST-125,Accessories,Laptop Stand,40.0,1,40.0,Refunded,2026-01-21
+1077,CUST-127,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-04-30
+1078,CUST-154,Accessories,Cable Management Kit,15.0,1,15.0,Completed,2026-03-20
+1079,CUST-126,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-02-02
+1080,CUST-124,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-03-21
+1081,CUST-144,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-05-14
+1082,CUST-120,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-01-28
+1083,CUST-127,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-04-02
+1084,CUST-150,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-03-03
+1085,CUST-137,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-02-28
+1086,CUST-134,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-01-27
+1087,CUST-123,Accessories,Screen Cleaning Kit,12.0,1,12.0,Completed,2026-06-09
+1088,CUST-140,Accessories,Cable Management Kit,15.0,1,15.0,Completed,2026-06-04
+1089,CUST-146,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-03-11
+1090,CUST-124,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-05-06
+1091,CUST-143,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-02-24
+1092,CUST-113,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-01-20
+1093,CUST-107,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-04-27
+1094,CUST-103,Office Supplies,Desk Mat,25.0,3,75.0,Refunded,2026-05-18
+1095,CUST-111,Accessories,Laptop Stand,40.0,3,120.0,Refunded,2026-01-12
+1096,CUST-146,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-02-18
+1097,CUST-126,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-02-19
+1098,CUST-150,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-01-15
+1099,CUST-128,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-05-30
+1100,CUST-105,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-06-30
+1101,CUST-141,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-06-09
+1102,CUST-113,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-04-29
+1103,CUST-125,Office Supplies,Desk Mat,25.0,1,25.0,Completed,2026-01-03
+1104,CUST-137,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-06-22
+1105,CUST-106,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-02-17
+1106,CUST-117,Accessories,Cable Management Kit,15.0,3,45.0,Refunded,2026-02-27
+1107,CUST-154,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-02-04
+1108,CUST-129,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-03-19
+1109,CUST-131,Office Supplies,LED Monitor Light,60.0,1,60.0,Refunded,2026-01-26
+1110,CUST-136,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-04-16
+1111,CUST-149,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-03-05
+1112,CUST-115,Office Supplies,LED Monitor Light,60.0,3,180.0,Refunded,2026-01-14
+1113,CUST-118,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-06-22
+1114,CUST-103,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-01-14
+1115,CUST-123,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-06-23
+1116,CUST-104,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-01-19
+1117,CUST-101,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-01-29
+1118,CUST-137,Office Supplies,LED Monitor Light,60.0,2,120.0,Refunded,2026-04-25
+1119,CUST-143,Electronics,Mechanical Keyboard,120.0,3,360.0,Refunded,2026-03-17
+1120,CUST-129,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-04-25
+1121,CUST-136,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-01-14
+1122,CUST-132,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-06-21
+1123,CUST-156,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-04-15
+1124,CUST-112,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Refunded,2026-06-19
+1125,CUST-126,Electronics,USB-C Hub,35.0,1,35.0,Completed,2026-03-20
+1126,CUST-160,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-03-07
+1127,CUST-111,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-03-08
+1128,CUST-131,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-06-05
+1129,CUST-132,Electronics,Mechanical Keyboard,120.0,2,240.0,Completed,2026-01-25
+1130,CUST-115,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-01-16
+1131,CUST-129,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-03-15
+1132,CUST-124,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-03-01
+1133,CUST-138,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-01-17
+1134,CUST-158,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-01-14
+1135,CUST-132,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-01-04
+1136,CUST-103,Office Supplies,Desk Mat,25.0,1,25.0,Refunded,2026-03-25
+1137,CUST-143,Accessories,Screen Cleaning Kit,12.0,2,24.0,Refunded,2026-02-07
+1138,CUST-137,Electronics,Wireless Mouse,45.0,3,135.0,Refunded,2026-02-27
+1139,CUST-157,Accessories,Laptop Stand,40.0,1,40.0,Completed,2026-03-11
+1140,CUST-109,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-01-06
+1141,CUST-115,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-05-02
+1142,CUST-117,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-01-04
+1143,CUST-137,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-06-22
+1144,CUST-102,Electronics,USB-C Hub,35.0,2,70.0,Refunded,2026-02-15
+1145,CUST-156,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-06-14
+1146,CUST-125,Electronics,USB-C Hub,35.0,2,70.0,Refunded,2026-03-11
+1147,CUST-111,Accessories,Screen Cleaning Kit,12.0,1,12.0,Refunded,2026-06-20
+1148,CUST-146,Electronics,Wireless Mouse,45.0,2,90.0,Refunded,2026-06-17
+1149,CUST-149,Accessories,Laptop Stand,40.0,2,80.0,Completed,2026-02-24
+1150,CUST-147,Electronics,Wireless Mouse,45.0,2,90.0,Completed,2026-05-12
+1151,CUST-140,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-04-12
+1152,CUST-124,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-05-22
+1153,CUST-131,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-02-21
+1154,CUST-137,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-02-21
+1155,CUST-133,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-02-25
+1156,CUST-130,Accessories,Screen Cleaning Kit,12.0,2,24.0,Completed,2026-05-29
+1157,CUST-152,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-02-20
+1158,CUST-159,Accessories,Laptop Stand,40.0,1,40.0,Refunded,2026-05-09
+1159,CUST-148,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-02-08
+1160,CUST-104,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-06-11
+1161,CUST-125,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-06-24
+1162,CUST-121,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-05-22
+1163,CUST-106,Accessories,Cable Management Kit,15.0,3,45.0,Completed,2026-03-14
+1164,CUST-108,Office Supplies,Desk Mat,25.0,1,25.0,Completed,2026-05-31
+1165,CUST-139,Accessories,Cable Management Kit,15.0,2,30.0,Refunded,2026-05-03
+1166,CUST-111,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-05-20
+1167,CUST-109,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-01-27
+1168,CUST-149,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-05-08
+1169,CUST-125,Accessories,Screen Cleaning Kit,12.0,1,12.0,Completed,2026-05-07
+1170,CUST-151,Office Supplies,Desk Mat,25.0,3,75.0,Refunded,2026-03-10
+1171,CUST-131,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-02-01
+1172,CUST-130,Electronics,USB-C Hub,35.0,1,35.0,Completed,2026-04-03
+1173,CUST-132,Accessories,Screen Cleaning Kit,12.0,2,24.0,Completed,2026-05-20
+1174,CUST-106,Accessories,Cable Management Kit,15.0,1,15.0,Refunded,2026-06-08
+1175,CUST-152,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Refunded,2026-03-30
+1176,CUST-106,Office Supplies,Desk Mat,25.0,2,50.0,Completed,2026-01-30
+1177,CUST-133,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-05-07
+1178,CUST-152,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-04-28
+1179,CUST-104,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Refunded,2026-02-25
+1180,CUST-131,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-04-16
+1181,CUST-119,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-03-27
+1182,CUST-134,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-05-29
+1183,CUST-141,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-03-03
+1184,CUST-123,Electronics,Wireless Mouse,45.0,2,90.0,Completed,2026-06-10
+1185,CUST-109,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-06-24
+1186,CUST-109,Electronics,Mechanical Keyboard,120.0,2,240.0,Completed,2026-01-15
+1187,CUST-137,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-03-09
+1188,CUST-128,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-04-10
+1189,CUST-103,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-02-20
+1190,CUST-155,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-04-23
+1191,CUST-110,Electronics,USB-C Hub,35.0,2,70.0,Refunded,2026-04-20
+1192,CUST-134,Office Supplies,LED Monitor Light,60.0,3,180.0,Refunded,2026-01-09
+1193,CUST-129,Electronics,USB-C Hub,35.0,1,35.0,Completed,2026-01-06
+1194,CUST-102,Accessories,Screen Cleaning Kit,12.0,1,12.0,Refunded,2026-01-10
+1195,CUST-149,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-05-21
+1196,CUST-146,Electronics,Mechanical Keyboard,120.0,3,360.0,Refunded,2026-01-05
+1197,CUST-157,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-02-04
+1198,CUST-141,Accessories,Cable Management Kit,15.0,1,15.0,Completed,2026-02-21
+1199,CUST-133,Accessories,Laptop Stand,40.0,1,40.0,Completed,2026-01-06
+1200,CUST-159,Office Supplies,Ergonomic Chair Pad,50.0,1,50.0,Completed,2026-03-11
+1201,CUST-158,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-06-05
+1202,CUST-134,Office Supplies,LED Monitor Light,60.0,3,180.0,Completed,2026-01-26
+1203,CUST-154,Office Supplies,LED Monitor Light,60.0,1,60.0,Refunded,2026-06-12
+1204,CUST-107,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-02-04
+1205,CUST-125,Accessories,Cable Management Kit,15.0,3,45.0,Completed,2026-02-23
+1206,CUST-150,Office Supplies,Ergonomic Chair Pad,50.0,1,50.0,Completed,2026-05-15
+1207,CUST-160,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-01-23
+1208,CUST-106,Electronics,Wireless Mouse,45.0,3,135.0,Completed,2026-02-28
+1209,CUST-107,Accessories,Laptop Stand,40.0,2,80.0,Refunded,2026-02-06
+1210,CUST-118,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-02-25
+1211,CUST-129,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-03-01
+1212,CUST-112,Accessories,Screen Cleaning Kit,12.0,1,12.0,Completed,2026-06-08
+1213,CUST-110,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-05-24
+1214,CUST-147,Office Supplies,Ergonomic Chair Pad,50.0,1,50.0,Refunded,2026-05-07
+1215,CUST-125,Office Supplies,Desk Mat,25.0,1,25.0,Completed,2026-04-15
+1216,CUST-116,Accessories,Screen Cleaning Kit,12.0,3,36.0,Completed,2026-03-20
+1217,CUST-123,Accessories,Laptop Stand,40.0,1,40.0,Completed,2026-01-06
+1218,CUST-114,Electronics,Mechanical Keyboard,120.0,1,120.0,Completed,2026-05-20
+1219,CUST-155,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-01-18
+1220,CUST-152,Electronics,USB-C Hub,35.0,1,35.0,Refunded,2026-03-04
+1221,CUST-132,Office Supplies,Desk Mat,25.0,1,25.0,Completed,2026-02-12
+1222,CUST-116,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-05-04
+1223,CUST-158,Electronics,USB-C Hub,35.0,3,105.0,Refunded,2026-05-25
+1224,CUST-125,Accessories,Cable Management Kit,15.0,3,45.0,Completed,2026-06-20
+1225,CUST-102,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-02-02
+1226,CUST-104,Accessories,Laptop Stand,40.0,2,80.0,Refunded,2026-01-11
+1227,CUST-104,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-01-16
+1228,CUST-125,Office Supplies,Ergonomic Chair Pad,50.0,2,100.0,Completed,2026-05-12
+1229,CUST-139,Electronics,Mechanical Keyboard,120.0,1,120.0,Refunded,2026-03-29
+1230,CUST-104,Accessories,Laptop Stand,40.0,1,40.0,Completed,2026-01-23
+1231,CUST-112,Office Supplies,Desk Mat,25.0,3,75.0,Completed,2026-06-03
+1232,CUST-114,Electronics,Wireless Mouse,45.0,1,45.0,Refunded,2026-04-29
+1233,CUST-136,Electronics,Wireless Mouse,45.0,1,45.0,Completed,2026-01-21
+1234,CUST-112,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Refunded,2026-06-16
+1235,CUST-142,Electronics,Mechanical Keyboard,120.0,3,360.0,Completed,2026-05-07
+1236,CUST-102,Accessories,Cable Management Kit,15.0,2,30.0,Completed,2026-01-09
+1237,CUST-139,Electronics,USB-C Hub,35.0,2,70.0,Completed,2026-04-05
+1238,CUST-138,Office Supplies,Ergonomic Chair Pad,50.0,3,150.0,Completed,2026-02-21
+1239,CUST-103,Electronics,Mechanical Keyboard,120.0,2,240.0,Completed,2026-06-10
+1240,CUST-131,Electronics,USB-C Hub,35.0,3,105.0,Completed,2026-02-03
+1241,CUST-150,Accessories,Screen Cleaning Kit,12.0,1,12.0,Completed,2026-02-17
+1242,CUST-131,Electronics,Wireless Mouse,45.0,3,135.0,Refunded,2026-03-10
+1243,CUST-117,Accessories,Laptop Stand,40.0,1,40.0,Completed,2026-03-16
+1244,CUST-110,Office Supplies,LED Monitor Light,60.0,1,60.0,Completed,2026-03-07
+1245,CUST-101,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-02-16
+1246,CUST-145,Electronics,Wireless Mouse,45.0,2,90.0,Completed,2026-06-02
+1247,CUST-117,Office Supplies,LED Monitor Light,60.0,2,120.0,Completed,2026-04-05
+1248,CUST-103,Accessories,Screen Cleaning Kit,12.0,1,12.0,Completed,2026-03-08
+1249,CUST-147,Accessories,Screen Cleaning Kit,12.0,2,24.0,Completed,2026-04-21
+1250,CUST-140,Accessories,Laptop Stand,40.0,3,120.0,Completed,2026-05-19
